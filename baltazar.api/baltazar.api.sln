@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baltazar.api", "baltazar.api\baltazar.api.csproj", "{EAA681FD-F627-4AAB-84A1-DBBFA6991B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "baltazar.logic", "baltazar.logic\baltazar.logic.csproj", "{59C0FCE9-159D-431B-8CDE-76E43D991A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA681FD-F627-4AAB-84A1-DBBFA6991B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA681FD-F627-4AAB-84A1-DBBFA6991B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA681FD-F627-4AAB-84A1-DBBFA6991B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA681FD-F627-4AAB-84A1-DBBFA6991B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C0FCE9-159D-431B-8CDE-76E43D991A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C0FCE9-159D-431B-8CDE-76E43D991A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C0FCE9-159D-431B-8CDE-76E43D991A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C0FCE9-159D-431B-8CDE-76E43D991A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
